@@ -9,7 +9,6 @@ int main()
 		if (sum_num12 % 2 == 0)
 		{
 			sumAns += sum_num12;
-
 		}
 		num1 = num2;
 		printf("\nnum1 = %d \t num2 = %d\n ", num1, num2);
@@ -20,7 +19,8 @@ int main()
 
 	}
 	printf(" \n\n\n \t\t\t Ans = %d \n", sumAns);
-	printf("\t\t\t----- By Watcharapol -----");
+	printf("\t\t\t----- By Watcharapol -----\n");
+	printf("\t\t\t----- I am very proud-----\n");
 
 
 
